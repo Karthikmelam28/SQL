@@ -1,4 +1,4 @@
-#SQL-Practice-Queries
+SQL-Practice-Queries
 This repository contains 65 SQL queries I solved to enhance my database skills. The queries cover:
 
 Basic SQL: Select statements, filtering, and sorting.
